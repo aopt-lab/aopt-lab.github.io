@@ -1,10 +1,10 @@
-title: Ryoji Tanabe's Homepage
-url: "https://ryojitanabe.github.io"
+title: Automated Optimization Laboratory
+url: "https://aopt-lab.github.io/"
 # baseurl: "/researcher"
 
 markdown: kramdown
 
-tracking_id: UA-40464842-3
+tracking_id: 
 
 sass:
     style: compressed
