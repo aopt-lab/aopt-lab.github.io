@@ -1,0 +1,11 @@
+title: Ryoji Tanabe's Homepage
+url: "https://ryojitanabe.github.io"
+# baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: UA-40464842-3
+
+sass:
+    style: compressed
+    sass_dir: _sass
