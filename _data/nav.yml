@@ -1,25 +1,9 @@
-# - name: "Contact"
-#  link: "contact"
-
-#- name: "Resume"
- # link: "resume.pdf"
-
-
-
-- name: "パブリケーション"
-  link: "publication-j"
-
-- name: "アバウト"
-  link: "about-j"
-
-- name: "ホーム"
-  link: "index-j"
-
-- name: "Publication"
-  link: "publication"
-
-- name: "About"
-  link: "about"
-
-- name: "Home"
-  link: "/"
+languages: 
+- language: "en" links: 
+- title: "Home" url: /
+- title: "About" url: /about/
+- title: "ja" url: /ja/ 
+- language: "ja" links: 
+- title: "ホーム" url: /ja/
+- title: "アバウト" url: /ja/about/
+- title: "en" url: /

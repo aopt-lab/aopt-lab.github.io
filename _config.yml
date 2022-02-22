@@ -9,3 +9,6 @@ tracking_id: UA-40464842-3
 sass:
     style: compressed
     sass_dir: _sass
+
+lang: ja
+languages: ["en", "ja"] 
