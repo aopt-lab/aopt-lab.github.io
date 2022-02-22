@@ -1,9 +1,9 @@
 languages: 
 - language: "en" links: 
-- title: "Home" url: /
-- title: "About" url: /about/
-- title: "ja" url: /ja/ 
+- title: "Home" url: /en/
+- title: "About" url: /en/about/
+- title: "ja" url: /ja/
 - language: "ja" links: 
 - title: "ホーム" url: /ja/
 - title: "アバウト" url: /ja/about/
-- title: "en" url: /
+- title: "en" url: /en/
