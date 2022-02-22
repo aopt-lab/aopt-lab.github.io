@@ -51,10 +51,23 @@
         <meta name="twitter:image" content="{{ site.twitter_image }}">
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
-    {% endif %}
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+	{% endif %}
+	{% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
+	<!-- Copied from https://medium.com/@desfocado/how-to-make-jekyll-multilingual-c13e74c18f1c-->
+	{% for item in site.data.navigation.languages %} 
+	{% if item.language == page.lang %} 
+	{% for link in item.links %} 
+	{% if link.url contains "http" %} 
+	{% assign url = link.url %} 
+	{% else %} 
+	{% assign url = link.url | relative_url %} 
+	{% endif %} 
+	<a class="page-link" href="{{ url }}">{{ link.title }}</a> 
+	{% endfor %} 
+	{% endif %} 
+	{% endfor %}	
 </head>
 <body>
     <div class="wrapper">
