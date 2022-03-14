@@ -1,12 +1,3 @@
-- name: "パブリケーション"
-  link: "publication"
-
-- name: "メンバー"
-  link: "members"
-
-- name: "ホーム"
-  link: "/"
-
 - name: "Publication"
   link: "publication-en"
 
@@ -15,3 +6,12 @@
 
 - name: "Home"
   link: "index-en"
+
+- name: "パブリケーション"
+  link: "publication"
+
+- name: "メンバー"
+  link: "members"
+
+- name: "ホーム"
+  link: "/"
