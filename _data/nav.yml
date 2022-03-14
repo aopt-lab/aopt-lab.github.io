@@ -1,25 +1,17 @@
-# - name: "Contact"
-#  link: "contact"
-
-#- name: "Resume"
- # link: "resume.pdf"
-
-
-
 - name: "パブリケーション"
-  link: "publication-j"
-
-- name: "アバウト"
-  link: "about-j"
-
-- name: "ホーム"
-  link: "index-j"
-
-- name: "Publication"
   link: "publication"
 
-- name: "About"
-  link: "about"
+- name: "メンバー"
+  link: "members"
+
+- name: "ホーム"
+  link: "/"
+
+- name: "Publication"
+  link: "publication-en"
+
+- name: "Members"
+  link: "members-en"
 
 - name: "Home"
-  link: "/"
+  link: "index-en"
