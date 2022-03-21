@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated Optimization Laboratory
+title: 田邊研究室
 ---
 
 ### 2022年度メンバー

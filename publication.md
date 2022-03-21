@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated Optimization Laboratory
+title: 田邊研究室
 ---
 
 英文論文は[Publication](/publication-en)で紹介しています. 田邊個人の研究業績につきましては, [こちら](https://ryojitanabe.github.io/publication)をご参照ください.

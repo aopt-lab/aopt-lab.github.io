@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated Optimization Laboratory
+title: Tanabe Laboratory
 ---
 
 No paper is available.

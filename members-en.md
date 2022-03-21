@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Automated Optimization Laboratory
+title: Tanabe Laboratory
 ---
 
-### 2022年度メンバー
+### Current Lab Members
 
-#### 教員
+#### Faculty
 
-- [田邊遼司](https://ryojitanabe.github.io/index-j) (助教)
+- [Ryoji Tanabe](https://ryojitanabe.github.io/index) (Assistant Professor)
 
-#### 学部生 (理工学部 情報工学EP)
+#### Undergraduate Students (College of Engineering Science)
 
 - 横浜花子
 - 横浜次郎
 
-#### 卒業生/修了生
+#### Former Lab Members
 
-- 
+
 
