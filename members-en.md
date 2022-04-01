@@ -11,10 +11,15 @@ title: Tanabe Laboratory
 
 #### Undergraduate Students (College of Engineering Science)
 
-- 横浜花子
-- 横浜次郎
+- Ryoma Kinjo (B4)
+- Naoki Kurakata (B4)
+- Ririka Hamana (B4)
+- Takushi Yoshikawa (B4)
+- Dohyeun Lee (B4)
+- Keisuke Korogi (B3, 3-year early graduation)
 
 #### Former Lab Members
 
+##### 2022
 
-
+- Keisuke Korogi (B2, [ROUTE](http://es-route.ynu.ac.jp/))

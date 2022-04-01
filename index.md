@@ -5,10 +5,12 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2022年4月1日: メンバーを更新しました.
+
 * 2022年3月17日: 興呂木さん ([ROUTE](http://es-route.ynu.ac.jp/), B2) が[第21回進化計算学会研究会](http://www.jpnsec.org/symposium202201.html)で発表しました:
     * 興呂木啓祐, 田邊遼司: Indicator-based Subset Selection Problem に対する局所探索の候補リスト戦略による高速化
 	
-* 2022年3月15日: このホームページを作りました. このページは田邊研究室の学生の研究成果を紹介します. 田邊個人の研究成果につきましては, [こちら](https://ryojitanabe.github.io/index-j)を参照ください.
+* 2022年3月15日: このウェブページを作りました. このページは田邊研究室のメンバーの研究成果を紹介します. 田邊個人の研究成果につきましては, [こちら](https://ryojitanabe.github.io/index-j)を参照ください.
 
 ### 田邊研究室
 
