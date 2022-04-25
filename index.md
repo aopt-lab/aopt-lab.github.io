@@ -5,16 +5,7 @@ title: 田邊研究室
 
 ### お知らせ
 
-* 2022年4月5日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/)にて, 本学情報工学EPの学生を受け入れています. 次の9つの研究テーマ候補をあげています. 詳しくは[情報工学EPのROUTEウェブページ](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/project-lists/)を参照ください.
-    1. Solis-Wets法の高次元ブラックボックス最適化問題でのベンチマーキング
-    2. 遺伝的プログラミングにおける集団更新モデルの再考
-    3. SciPyのブラックボックス最適化手法の自動アルゴリズム構成
-    4. 代表的なベイズ最適化手法のMixed-integer BBOB Function Setにおけるベンチマーキング
-    5. Noveltyに基づく適応度関数によるPlateauを有する連続最適化における進化アルゴリズムの改良
-    6. 疑似乱数生成器がHypervolume近似法の性能に与える影響の解析
-    7. Nadir pointが不明な多目的最適化問題へのCOMO-CMA-ESの拡張
-    8. Multi-funnel構造を有する巡回セールスパーソン問題インスタンスの自動生成
-    9. 水のフレーバーの対話型進化計算による最適化
+* 2022年4月5日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/)にて, 本学情報工学EPの学生を受け入れています. 9つの研究テーマ候補をあげています. 詳しくは[情報工学EPのROUTEウェブページ](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/project-lists/)を参照ください.
 
 * 2022年4月1日: メンバーを更新しました.
 
