@@ -7,11 +7,14 @@
 - name: "Home"
   link: "index-en"
 
+- name: "研究紹介"
+  link: "about"
+
 - name: "パブリケーション"
   link: "publication"
 
 - name: "メンバー"
   link: "members"
-
+  
 - name: "ホーム"
   link: "/"
