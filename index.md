@@ -5,6 +5,8 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2022年10月6日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/how-to-join/)にて, 本学情報工学EPの学生を受け入れています. 研究テーマ候補については[こちら](https://hackmd.io/yqsGzrHvSMKPbM8afex7qw)を参照ください.
+
 * 2022年4月5日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/)にて, 本学情報工学EPの学生を受け入れています. 9つの研究テーマ候補をあげています. 詳しくは[情報工学EPのROUTEウェブページ](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/project-lists/)を参照ください.
 
 * 2022年4月1日: メンバーを更新しました.
