@@ -18,6 +18,10 @@ title: Tanabe Laboratory
 - Takushi Yoshikawa (B4)
 - Keisuke Korogi (B3, 3-year early graduation)
 
+#### ROUTE (College of Engineering Science)
+
+- Sota Takasuka (B3)
+
 #### Former Lab Members
 
 ##### 2021
