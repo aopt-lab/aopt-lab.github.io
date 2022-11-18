@@ -10,5 +10,5 @@ title: 田邊研究室
 ### 国内研究発表 (査読無し)
 
 ### 2022
-
+* 興呂木啓祐, 田邊遼司: Indicator-based Subset Selection Problem に対する局所探索の2段階候補リスト戦略による高速化, [進化計算シンポジウム2022](http://www.jpnsec.org/symposium202203.html), 北海道大学, 12月
 * 興呂木啓祐, 田邊遼司: Indicator-based Subset Selection Problem に対する局所探索の候補リスト戦略による高速化, [第21回進化計算学会研究会](http://www.jpnsec.org/symposium202201.html), オンライン, 3月
