@@ -8,8 +8,35 @@ title: 田邊研究室
 本研究室は人工知能・計算知能の一分野である進化計算の基礎研究を主に研究対象としています.
 特に, ブラックボックス最適化, 多目的最適化, 進化アルゴリズムの振る舞いの実験的解析, 適応的パラメータ制御, 適応度地形解析, 自動アルゴリズム構成, 自動アルゴリズム選択, ベンチマーキング方法論の設計に現在関心があります.
 学術研究の目的である知の体系化に貢献するために, 研究成果は積極的に英語論文として公開することを心がけています.
-以下では, 本研究室 (2022年現在は田邊一人) の研究成果の一部を簡単に紹介します.
+以下では, 本研究室 (2023年現在は田邊一人) の研究成果の一部を簡単に紹介します.
 
+#### ブラックボックス最適化
+
+ブラックボックス最適化問題では, 目的関数$f$が陽に与えられず, ある解$x$の目的関数値$f(x)$しか探索に利用できません. ブラックボックス最適化問題は解の良し悪しをシミュレーションにより評価する応用問題などに一般的に現れます. 進化計算手法はこのようなブラックボックス最適化に対して有用なアプローチの1つです.
+
+以前, 私は進化計算手法の1つであるdifferential evolution (DE, 差分進化) に取り組んでいました. 当時DEは単純なアルゴリズムという利点はある反面, その性能は乏しいとされていました. それに対して, DEは効果的にアルゴリズムを設計しさえすれば, ブラックボックス最適化に対するstate-of-the-artに特定の条件下で匹敵するという成果が得られました.
+
+*  Ryoji Tanabe: **Revisiting Population Models in Differential Evolution on a Limited Budget of Evaluations**, Proc. Parallel Problem Solving from Nature [(PPSN2020)](https://ppsn2020.liacs.leidenuniv.nl/), [pdf](https://ryojitanabe.github.io/pdf/t-ppsn2020.pdf), [code](https://github.com/ryojitanabe/de_expensiveopt), [poster](https://ryojitanabe.github.io/pdf/t-ppsn2020-poster.pdf)
+* Ryoji Tanabe and Alex Fukunaga: **Improving the Search Performance of SHADE Using Linear Population Size Reduction**, Proc. IEEE Congress on Evolutionary Computation [(CEC2014)](http://www.ieee-wcci2014.org/), [(pdf)](https://ryojitanabe.github.io/pdf/tf-cec2014.pdf)
+* Ryoji Tanabe and Alex Fukunaga: **Success-History Based Parameter Adaptation for Differential Evolution**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](http://metahack.org/CEC2013-SHADE.pdf)
+
+#### 進化型多目的最適化
+
+多目的最適化では, 互いにトレードオフな関係にある$m$個の目的関数$f_1, ..., f_m$を同時に最小化します. しかし, $f_1, ..., f_m$全てを最小化する完全最適解は一般的には存在しないため, 意思決定者が選好するパレート最適解の獲得が多目的最適化の目標となります.
+
+進化計算を多目的最適化に拡張した進化型多目的最適化は, 目的空間にてパレートフロントを近似する解集合の獲得に使われます. 得られた解集合の中から, 意思決定者は自身が選好する解を選択します. 代表的な進化型多目的最適化アルゴリズムとして, NSGA-II, IBEA, MOEA/Dなどがあります.
+私は新しい進化型多目的最適化アルゴリズムの設計, アルゴリズムの振る舞いの解析, 多目的最適化の指標の解析などに取り組んでいます.
+
+*  Ryoji Tanabe, Youhei Akimoto, Ken Kobayashi, Hiroshi Umeki, Shinichi Shirakawa, Naoki Hamada: **A Two-phase Framework with a Bezier Simplex-based Interpolation Method for Computationally Expensive Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2022)](https://gecco-2022.sigevo.org), [pdf](https://arxiv.org/abs/2203.15292), [code](https://github.com/ryojitanabe/tpb), [slides](pdf/takush-gecco22-slides.pdf)
+* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](https://arxiv.org/abs/2009.12788), [link](https://ieeexplore.ieee.org/document/8957371)
+
+#### 選好に基づく進化型多目的最適化
+
+意思決定者の例えば「値段が1234円, 性能が567馬力の解が欲しい」というような選好情報が利用できれば, 進化型多目的最適化アルゴリズムの探索に組み込むことができます. 選好に基づく進化型多目的最適化は進化型多目的最適化を拡張した枠組みです. 一般的にパレートフロント全体を近似するよりも, その部分集合を近似する方が探索に費やすコストが低く抑えられます.
+
+私はこのテーマに最近取り組み始めたばかりですが, いくつか興味深い成果が得られています. 例えば, 次の論文では選好に基づく進化型多目的最適化アルゴリズムをどのように性能評価するべきかを解析しています.
+
+* Ryoji Tanabe, Ke Li: **Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis**, [pdf](https://arxiv.org/abs/2301.12148), [code](https://github.com/ryojitanabe/prefqi)
 
 #### 適応度地形解析
 
@@ -68,11 +95,3 @@ ELAは10次元程度の規模の問題 (設計変数が10個程度の問題) に
 次の論文では, ブラックボックス最適化の特徴量に基づくオフラインアルゴリズム選択システムを実験的に解析しています:
 
 * Ryoji Tanabe: **Benchmarking Feature-based Algorithm Selection Systems for Black-box Numerical Optimization**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), 2022. [pdf](https://arxiv.org/abs/2109.08377), [link](https://ieeexplore.ieee.org/document/9762332), [code](https://github.com/ryojitanabe/as_bbo)
-
-#### 自動アルゴリズム構成
-
-#### 進化型多目的最適化
-
-
-
-
