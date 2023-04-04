@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: math
 title: 田邊研究室
 ---
 
@@ -22,6 +22,10 @@ title: 田邊研究室
 
 #### 進化型多目的最適化
 
+- Colabでのデモ
+  - [進化型多目的最適化](https://colab.research.google.com/drive/1rVQA2QCF49DXt_88hcIoZXQIv-4Q-UUe?usp=sharing)
+  - [指標](https://colab.research.google.com/drive/1VmmLNhnSFrZSXkMaeziQXh82Mtz4Uv8N?usp=sharing)
+
 多目的最適化では, 互いにトレードオフな関係にある$m$個の目的関数$f_1, ..., f_m$を同時に最小化します. しかし, $f_1, ..., f_m$全てを最小化する完全最適解は一般的には存在しないため, 意思決定者が選好するパレート最適解の獲得が多目的最適化の目標となります.
 
 進化計算を多目的最適化に拡張した進化型多目的最適化は, 目的空間にてパレートフロントを近似する解集合の獲得に使われます. 得られた解集合の中から, 意思決定者は自身が選好する解を選択します. 代表的な進化型多目的最適化アルゴリズムとして, NSGA-II, IBEA, MOEA/Dなどがあります.
@@ -31,6 +35,8 @@ title: 田邊研究室
 * Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Quality Indicators Using Approximated Optimal Distributions in a Three-dimensional Objective Space**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](https://arxiv.org/abs/2009.12788), [link](https://ieeexplore.ieee.org/document/8957371)
 
 #### 選好に基づく進化型多目的最適化
+
+- [Colabでのデモ](https://colab.research.google.com/drive/12fkUpw43STew1osV-WZbMf2_v49J6Fb0?usp=sharing)
 
 意思決定者の例えば「値段が1234円, 性能が567馬力の解が欲しい」というような選好情報が利用できれば, 進化型多目的最適化アルゴリズムの探索に組み込むことができます. 選好に基づく進化型多目的最適化は進化型多目的最適化を拡張した枠組みです. 一般的にパレートフロント全体を近似するよりも, その部分集合を近似する方が探索に費やすコストが低く抑えられます.
 

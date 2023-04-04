@@ -5,8 +5,13 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2023年4月4日: メンバーを更新しました.
+* 2023年4月4日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/how-to-join/)にて, 本学情報工学EPの学生を受け入れています. 興味があれば[研究テーマ候補](https://hackmd.io/yqsGzrHvSMKPbM8afex7qw)を参照ください.
 * 2022年12月18日: 興呂木さん (B3) が[進化計算シンポジウム2022](http://www.jpnsec.org/symposium202203.html)で発表しました:
     * 興呂木啓祐, 田邊遼司: Indicator-based Subset Selection Problem に対する局所探索の2段階候補リスト戦略による高速化
+
+{% comment %}
+
 * 2022年10月24日: メンバーを更新しました.
 * 2022年10月6日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/how-to-join/)にて, 本学情報工学EPの学生を受け入れています. 研究テーマ候補については[こちら](https://hackmd.io/yqsGzrHvSMKPbM8afex7qw)を参照ください.
 * 2022年4月5日: 学部1年生 (秋学期), 2年生, 3年生を対象とした[ROUTE](http://es-route.ynu.ac.jp/)にて, 本学情報工学EPの学生を受け入れています. 9つの研究テーマ候補をあげています. 詳しくは[情報工学EPのROUTEウェブページ](http://es-route.ynu.ac.jp/computer-science-and-engineering-ep/project-lists/)を参照ください.
@@ -14,6 +19,8 @@ title: 田邊研究室
 * 2022年3月17日: 興呂木さん ([ROUTE](http://es-route.ynu.ac.jp/), B2) が[第21回進化計算学会研究会](http://www.jpnsec.org/symposium202201.html)で発表しました:
     * 興呂木啓祐, 田邊遼司: Indicator-based Subset Selection Problem に対する局所探索の候補リスト戦略による高速化
 * 2022年3月15日: このウェブページを作りました. このページは田邊研究室のメンバーの研究成果を紹介します. 田邊個人の研究成果につきましては, [こちら](https://ryojitanabe.github.io/index-j)を参照ください.
+{% endcomment %}
+
 
 ### 田邊研究室
 

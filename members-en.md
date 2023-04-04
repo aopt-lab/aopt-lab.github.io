@@ -7,23 +7,30 @@ title: Tanabe Laboratory
 
 #### Faculty
 
-- [Ryoji Tanabe](https://ryojitanabe.github.io/index) (Assistant Professor)
+- [Ryoji Tanabe](https://ryojitanabe.github.io/index) (PI, Assistant Professor)
 
-#### Undergraduate Students (College of Engineering Science)
+#### Masters Students
 
-- Dohyeun Lee (B4)
-- Ryoma Kinjo (B4)
-- Naoki Kurakata (B4)
-- Ririka Hamana (B4)
-- Takushi Yoshikawa (B4)
-- Keisuke Korogi (B3, 3-year early graduation)
+- K. K. (M1, Shirakawa lab.)
+- T. Y. (M1, Shirakawa lab.)
+
+#### Undergraduate Students
+
+- K. T. (B4)
+- N. L. (B4)
+- K. Y. (B4)
+- A. K. (B4)
+- K. F. (B4)
+- T. F. (B4)
 
 #### ROUTE (College of Engineering Science)
 
-- Sota Takasuka (B3)
 
 #### Former Lab Members
 
-##### 2021
+##### 2022
+- D. L., R. K., N. K., T. Y. (B4)
+- K. K. (B3)
 
-- Keisuke Korogi (B2, [ROUTE](http://es-route.ynu.ac.jp/))
+##### 2021
+- K. K. (B2, ROUTE)
