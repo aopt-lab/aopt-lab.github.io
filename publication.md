@@ -3,11 +3,17 @@ layout: default
 title: 田邊研究室
 ---
 
-英文論文は[Publication](/publication-en)で紹介しています. 田邊個人の研究業績につきましては, [こちら](https://ryojitanabe.github.io/publication)をご参照ください.
+田邊研究室の学生の研究業績を紹介しています. 田邊個人の研究業績につきましては, [こちら](https://ryojitanabe.github.io/publication)をご参照ください.
 
 ---
 
-### 国内研究発表 (査読無し)
+## 査読付き国際ワークショップ論文
+
+### 2024
+
+* Takushi Yoshikawa, Ryoji Tanabe: **On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting**, [GECCO Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home), [pdf](https://arxiv.org/abs/2405.10976), [slides](https://ryojitanabe.github.io/pdf/t-gecco2024-slides.pdf)
+
+## 国内研究発表 (査読無し)
 
 ### 2023
 * 吉川拓志, 田邊遼司: 計算コストの高いブラックボックス最適化に対する特徴量に基づく自動アルゴリズム選択, [進化計算シンポジウム2023](http://www.jpnsec.org/symposium202303.html), 小田原, 12月
