@@ -12,11 +12,13 @@ title: 田邊研究室
 
 #### 高校生向け研究紹介
 
-私達が作成しました, 横浜国立大学 理工学部 模擬講義動画がYouTubeにて公開されています. 
+私達が作成しました, 横浜国立大学 理工学部 模擬講義動画がYouTubeにて公開されています. 次の動画では, アリの採餌行動から着想を得ましたアリコロニー最適化をTSPを対象問題として説明しています. 
 
-<div>
-<iframe src="https://www.youtube.com/watch?v=CWLc14GOPpg></iframe>
-</div>
+[進化計算アルゴリズムの改良研究　～アリコロニー最適化を例に～](https://www.youtube.com/watch?v=CWLc14GOPpg), [slide](https://ryojitanabe.github.io/pdf/t-ynu-oa_slides.pdf)
+
+アリコロニー最適化のより詳しい説明は, 次の文献を参照ください.
+
+> 筒井茂義: アントコロニー最適化手法. 計測と制御, vol. 47, no. 6, pp. 466-472 [pdf](https://www.jstage.jst.go.jp/article/sicejl/47/6/47_466/_article/-char/ja/)
 
 #### ブラックボックス最適化
 

@@ -6,6 +6,8 @@ markdown: kramdown
 
 tracking_id: UA-40464842-4
 
+use_math: true
+
 sass:
     style: compressed
     sass_dir: _sass
