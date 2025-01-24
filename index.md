@@ -5,6 +5,8 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2025年01月25日 興呂木さん (M2) の論文が, 進化計算分野トップ論文誌の1つである論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 
+    * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link
 * 2024年12月24日: 熊山さん (B4) と最上さん (B4) が白浜で開催された[進化計算シンポジウム2024](http://www.jpnsec.org/symposium202403.html)で発表しました:
     * 熊山加惟, 田邊遼司: 任意の局所解の性質を有するTSPインスタンスの自動生成
     * 最上龍一, 田邊遼司: 混合整数ブラックボックス最適化における個体表現が差分進化の性能に与える影響の解析
