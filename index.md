@@ -5,7 +5,7 @@ title: 田邊研究室
 
 ### お知らせ
 
-* 2025年01月25日 興呂木さん (M2) の論文が, 進化計算分野トップ論文誌の1つである論文誌[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 
+* 2025年01月25日 興呂木さん (M2) の論文が, 進化計算分野トップ論文誌の1つである[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 進化型多目的最適化において, 指標に基づく部分集合選択問題は基盤的な組合せ最適化問題です. 本問題にて, 局所探索は良い部分集合が得られるメリットがある反面, 実行速度 (評価回数, 実行時間の観点) が非常に遅いというデメリットがあります. このデメリットを, 本論文では候補リスト戦略を使った高速化手法を提案し, 解消しています. 候補リスト戦略自体は古典的かつ普遍的なアイディアですが, genotype spaceではなくphenotype spaceにて近傍を定める点に新規性があります.
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, pdf, code, link
 * 2024年12月24日: 熊山さん (B4) と最上さん (B4) が白浜で開催された[進化計算シンポジウム2024](http://www.jpnsec.org/symposium202403.html)で発表しました:
     * 熊山加惟, 田邊遼司: 任意の局所解の性質を有するTSPインスタンスの自動生成
