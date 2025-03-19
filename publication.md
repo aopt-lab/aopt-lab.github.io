@@ -7,12 +7,17 @@ title: 田邊研究室
 
 ---
 
-
 ## 査読付きジャーナル論文
 
 ### 2025
 
 * Keisuke Korogi, Ryoji Tanabe: **Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy**, [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
+
+## 査読付き国際会議論文
+
+### 2025
+
+* Keisuke Korogi and Ryoji Tanabe: **Analyzing the Landscape of the Indicator-based Subset Selection Problem**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2025)](https://gecco-2025.sigevo.org), pdf, slides
 
 ## 査読付き国際ワークショップ論文
 
