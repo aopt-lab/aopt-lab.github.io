@@ -17,7 +17,7 @@ title: 田邊研究室
 
 ### 2025
 
-* Keisuke Korogi and Ryoji Tanabe: **Analyzing the Landscape of the Indicator-based Subset Selection Problem**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2025)](https://gecco-2025.sigevo.org), pdf, slides
+* Keisuke Korogi and Ryoji Tanabe: **Analyzing the Landscape of the Indicator-based Subset Selection Problem**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2025)](https://gecco-2025.sigevo.org), [pdf](https://arxiv.org/abs/2504.08282), slides
 
 ## 査読付き国際ワークショップ論文
 
@@ -29,6 +29,7 @@ title: 田邊研究室
 
 ### 2025
 
+* 興呂木啓祐, 田邊遼司: 2目的最適化におけるIGD, IGD+, R2, NR2を用いた指標に基づく部分集合選択問題に対する動的計画法, [人工知能学会全国大会2025](https://www.ai-gakkai.or.jp/jsai2025/), 大阪, 5月
 * 北村憲志, 田邊遼司, 興呂木啓祐: 選好に基づく進化型多目的最適化のためのHypervolume指標, [第27回進化計算学会研究会](https://www.jpnsec.org/symposium202501.html), 東京科学大学, 3月
 
 ### 2024
