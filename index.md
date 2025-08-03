@@ -5,6 +5,10 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2025年08月03日 北村さん, 最上さん (M1), 興呂木さん (M2) が大阪工業大学にて開催される[第28回進化計算学会研究会](https://www.jpnsec.org/symposium202502.html)で発表します:
+    * 北村憲志, 田邊遼司: 進化型多目的最適化における探索停止戦略のベンチマーキング
+    * 最上龍一, 田邊遼司: 選好に基づく進化型多目的最適化におけるサブ集団を用いた端点の近似
+    * 興呂木啓祐, 田邊遼司:  2目的最適化におけるIGD, IGD+, R2, NR2を用いた指標に基づく部分集合選択問題に対する動的計画法 (原稿なし発表)
 * 2025年04月14日 興呂木さん (M2) が大阪で開催される[人工知能学会全国大会2025](https://www.ai-gakkai.or.jp/jsai2025/)で発表します:
     * 興呂木啓祐, 田邊遼司:  2目的最適化におけるIGD, IGD+, R2, NR2を用いた指標に基づく部分集合選択問題に対する動的計画法
 * 2025年4月14日: メンバーを更新しました.
@@ -14,15 +18,15 @@ title: 田邊研究室
     * 北村憲志, 田邊遼司, 興呂木啓祐: 選好に基づく進化型多目的最適化のためのHypervolume指標
 * 2025年01月25日 興呂木さん (M2) の論文が, 進化計算分野トップ論文誌の1つである[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 進化型多目的最適化において, 指標に基づく部分集合選択問題は基盤的な組合せ最適化問題です. 本問題にて, 局所探索は良い部分集合が得られるメリットがある反面, 実行速度 (評価回数, 実行時間の観点) が非常に遅いというデメリットがあります. このデメリットを, 本論文では候補リスト戦略を使った高速化手法を提案し, 解消しています. 候補リスト戦略自体は古典的かつ普遍的なアイディアですが, genotype spaceではなくphenotype spaceにて近傍を定める点に新規性があります.
     * Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, [pdf](https://arxiv.org/abs/2503.04224), [supplement](https://raw.githubusercontent.com/rogi52/issp_ls_clist/main/tevc2025_issp_supp.pdf), [code](https://github.com/rogi52/issp_ls_clist) , [link](https://ieeexplore.ieee.org/document/10874145)
+
+{% comment %}
+
 * 2024年12月24日: 熊山さん (B4) と最上さん (B4) が白浜で開催された[進化計算シンポジウム2024](http://www.jpnsec.org/symposium202403.html)で発表しました:
     * 熊山加惟, 田邊遼司: 任意の局所解の性質を有するTSPインスタンスの自動生成
     * 最上龍一, 田邊遼司: 混合整数ブラックボックス最適化における個体表現が差分進化の性能に与える影響の解析
 * 2024年5月4日 𠮷川さん (M2) の論文が[ACM GECCO2024](https://gecco-2024.sigevo.org/)のワークショップ[Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home)に採択されました.
     * Takushi Yoshikawa, Ryoji Tanabe: On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting. [pdf](https://arxiv.org/abs/2405.10976), slides
 * 2024年4月6日: メンバーを更新しました.
-
-{% comment %}
-
 
 * 2023年11月17日: 𠮷川さん (M1) と福元さん (B4) が[進化計算シンポジウム2023](http://www.jpnsec.org/symposium202303.html)で発表します:
     * 吉川拓志, 田邊遼司: 計算コストの高いブラックボックス最適化に対する特徴量に基づく自動アルゴリズム選択
