@@ -13,7 +13,7 @@ title: 田邊研究室
     * 興呂木啓祐, 田邊遼司:  2目的最適化におけるIGD, IGD+, R2, NR2を用いた指標に基づく部分集合選択問題に対する動的計画法
 * 2025年4月14日: メンバーを更新しました.
 * 2025年03月19日 興呂木さん (M2) の論文が, 進化計算分野トップ国際会議の1つである[ACM GECCO2025](https://gecco-2025.sigevo.org/)に採択されました. 進化型多目的最適化における基盤的問題である, 指標に基づく部分集合選択問題にて地形解析をし, いくつかの重要な性質を明らかにしました.
-    * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), slides
+    * Keisuke Korogi and Ryoji Tanabe: Analyzing the Landscape of the Indicator-based Subset Selection Problem, [pdf](https://arxiv.org/abs/2504.08282), [slides](https://ryojitanabe.github.io/pdf/kt-gecco2025-slides.pdf)
 * 2025年3月6日: 北村さん (B4) が東京科学大学で開催された[第27回進化計算学会研究会](https://www.jpnsec.org/symposium202501.html)で発表しました:
     * 北村憲志, 田邊遼司, 興呂木啓祐: 選好に基づく進化型多目的最適化のためのHypervolume指標
 * 2025年01月25日 興呂木さん (M2) の論文が, 進化計算分野トップ論文誌の1つである[IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)に採択されました. 進化型多目的最適化において, 指標に基づく部分集合選択問題は基盤的な組合せ最適化問題です. 本問題にて, 局所探索は良い部分集合が得られるメリットがある反面, 実行速度 (評価回数, 実行時間の観点) が非常に遅いというデメリットがあります. このデメリットを, 本論文では候補リスト戦略を使った高速化手法を提案し, 解消しています. 候補リスト戦略自体は古典的かつ普遍的なアイディアですが, genotype spaceではなくphenotype spaceにて近傍を定める点に新規性があります.
