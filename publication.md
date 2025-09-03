@@ -25,6 +25,14 @@ title: 田邊研究室
 
 * Takushi Yoshikawa, Ryoji Tanabe: **On Constructing Algorithm Portfolios in Algorithm Selection for Computationally Expensive Black-box Optimization in the Fixed-budget Setting**, [GECCO Workshop Industrial Applications of Metaheuristics](https://sites.google.com/view/iam-workshop/home), [pdf](https://arxiv.org/abs/2405.10976), [slides](https://ryojitanabe.github.io/pdf/t-gecco2024-slides.pdf)
 
+
+## 受賞
+
+### 2025
+
+* ベストプレゼンテーション賞 (北村さん, 当時M1)
+    * 北村憲志, 田邊遼司: 進化型多目的最適化における探索停止戦略のベンチマーキング, [第28回進化計算学会研究会](https://www.jpnsec.org/symposium202502.html), 大阪工業大学, 9月
+
 ## 国内研究発表 (査読無し)
 
 ### 2025
