@@ -5,6 +5,7 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2025年09月30日 興呂木さん (M2) が[日本学術振興会 特別研究員DC1](https://www.jsps.go.jp/j-pd/)に採用されました. また, 興呂木さんは横浜国大の[YNU-SPRING, YNU-BOOST](https://ope.ynu.ac.jp/learning_plus/doctor_support.html)にも採用されました.
 * 2025年09月03日 北村さん (M1) が大阪工業大学にて開催された[第28回進化計算学会研究会](https://www.jpnsec.org/symposium202502.html)にて, [ベストプレゼンテーション賞](https://www.jpnsec.org/bestpresentations.html)を受賞しました:
     * 北村憲志, 田邊遼司: 進化型多目的最適化における探索停止戦略のベンチマーキング
 * 2025年08月03日 北村さん, 最上さん (M1), 興呂木さん (M2) が大阪工業大学にて開催される[第28回進化計算学会研究会](https://www.jpnsec.org/symposium202502.html)で発表します:
