@@ -15,6 +15,11 @@ title: 田邊研究室
 
 ## 査読付き国際会議論文
 
+### 2026
+
+* Kenji Kitamura and Ryoji Tanabe: **Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), pdf, slides
+* Ryuichi Mogami and Ryoji Tanabe: **A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), pdf, slides
+
 ### 2025
 
 * Keisuke Korogi and Ryoji Tanabe: **Analyzing the Landscape of the Indicator-based Subset Selection Problem**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2025)](https://gecco-2025.sigevo.org), [pdf](https://arxiv.org/abs/2504.08282), [slides](https://ryojitanabe.github.io/pdf/kt-gecco2025-slides.pdf)
@@ -35,6 +40,10 @@ title: 田邊研究室
 
 ## 国内研究発表 (査読無し)
 
+### 2026
+
+* 最上龍一, 田邊遼司:  選好に基づく進化型多目的最適化におけるRegion of Interestの定義の再考, [人工知能学会全国大会2026](https://www.ai-gakkai.or.jp/jsai2026/), 群馬県高崎市, 6月
+	
 ### 2025
 
 * 興呂木啓祐, 田邊遼司: Wrapper特徴量選択における低計算コストなベンチマーク問題, [進化計算シンポジウム2025](https://www.jpnsec.org/symposium202503.html), 富山県射水市, 12月

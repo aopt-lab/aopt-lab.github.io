@@ -5,6 +5,11 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2026年03月21日 北村さん (M1) と最上さん (M1) の論文が, 進化計算分野トップ国際会議の1つである[ACM GECCO2026](https://gecco-2026.sigevo.org/)に採択されました. 前者は進化計算分野初となる探索停止条件の定量的性能評価方法を提案し, 進化型多目的最適化に応用しています. 後者は任意の進化型多目的最適化アルゴリズム (例: NSGA-II) に意思決定者の選好情報を組み込むフレームワークを提案しています. 多目的最適化の実応用にて, 意思決定者が好む解集合を効率的に求めます.
+    * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, pdf, slides
+    * Ryuichi Mogami and Ryoji Tanabe: A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization, pdf, slides
+* 2026年03月21日 最上さん (M1) が群馬県高崎市で開催される[人工知能学会全国大会2026](https://www.ai-gakkai.or.jp/jsai2026/)で発表します:
+    * 最上龍一, 田邊遼司:  選好に基づく進化型多目的最適化におけるRegion of Interestの定義の再考
 * 2025年12月10日: 興呂木さん (D1), 北村さん, 最上さん (M1) が富山県射水市で開催される[進化計算シンポジウム2025](https://www.jpnsec.org/symposium202503.html)で発表します:
     * 興呂木啓祐, 田邊遼司: Wrapper特徴量選択における低計算コストなベンチマーク問題
     * 北村憲志, 田邊遼司: 進化型多目的最適化における探索停止戦略のベンチマーキング法の改良
