@@ -5,6 +5,8 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2026年05月27日 最上さん (M2) の論文が, 進化計算分野トップ国際会議の1つである[PPSN2026](https://ppsn2026.disi.unitn.it/)に採択されました. 選好に基づく進化型多目的最適化において, 非正規化空間と正規化空間のどちらを対象とするかでregion of interest (ROI) が大きく変化することを解析で明らかにしています. 実応用はもちろん, ベンチマーキングにおいても有益な知見が得られています.
+    * Ryuichi Mogami and Ryoji Tanabe: Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization, pdf, poster
 * 2026年04月06日: メンバーを更新しました.
 * 2026年03月21日 北村さん (M1) と最上さん (M1) の論文が, 進化計算分野トップ国際会議の1つである[ACM GECCO2026](https://gecco-2026.sigevo.org/)に採択されました. 前者は進化計算分野初となる探索停止条件の定量的性能評価方法を提案し, 進化型多目的最適化に応用しています. 後者は任意の進化型多目的最適化アルゴリズム (例: NSGA-II) に意思決定者の選好情報を組み込むフレームワークを提案しています. 多目的最適化の実応用にて, 意思決定者が好む解集合を効率的に求めます.
     * Kenji Kitamura and Ryoji Tanabe: Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization, pdf, slides
