@@ -15,7 +15,7 @@ title: 田邊研究室
 	
 #### 修士課程学生 (大学院 環境情報学府 情報環境専攻)
 
-- 最上龍一
+- [最上龍一](https://ryuichi-mogami.github.io/), ([researchmap](https://researchmap.jp/ryuichi-mogami))
 - 他4名
 
 #### 学部4年生 (理工学部 情報工学EP)
