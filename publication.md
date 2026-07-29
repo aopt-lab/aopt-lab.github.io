@@ -19,7 +19,7 @@ title: 田邊研究室
 
 * Ryuichi Mogami and Ryoji Tanabe: **Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2026)](https://ppsn2026.disi.unitn.it/), [pdf](https://arxiv.org/abs/2606.16382), poster
 * Kenji Kitamura and Ryoji Tanabe: **Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), [pdf](https://arxiv.org/abs/2604.25458), slides
-* Ryuichi Mogami and Ryoji Tanabe: **A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), pdf, slides
+* Ryuichi Mogami and Ryoji Tanabe: **A Bi-Criteria Selection Framework for Incorporating Preference Information into Evolutionary Multi-objective Optimization**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2026)](https://gecco-2026.sigevo.org), [pdf](https://dl.acm.org/doi/10.1145/3795095.3805083), slides
 
 ### 2025
 
