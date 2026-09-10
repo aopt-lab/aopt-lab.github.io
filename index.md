@@ -5,6 +5,8 @@ title: 田邊研究室
 
 ### お知らせ
 
+* 2026年9月10日: 興呂木さん (D1) が福知山公立大学で開催される[インテリジェント・システム・シンポジウム2026](https://sites.google.com/view/fan2026/ホーム)で発表します:
+    * 興呂木啓祐, 田邊遼司: 無限アーカイブから選択した部分解集合に基づく進化型多目的最適化アルゴリズムの停止条件
 * 2026年05月27日 最上さん (M2) の論文が, 進化計算分野トップ国際会議の1つである[PPSN2026](https://ppsn2026.disi.unitn.it/)に採択されました. 選好に基づく進化型多目的最適化において, 非正規化空間と正規化空間のどちらを対象とするかでregion of interest (ROI) が大きく変化することを解析で明らかにしています. 実応用はもちろん, ベンチマーキングにおいても有益な知見が得られています.
     * Ryuichi Mogami and Ryoji Tanabe: Effects of Objective Normalization on Regions of Interest in Preference-Based Evolutionary Multi-Objective Optimization, [pdf](https://arxiv.org/abs/2606.16382), poster
 * 2026年04月06日: メンバーを更新しました.
